@@ -1,0 +1,22 @@
+.list {
+  align: center;
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  align: center;
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  align: center;
+  max-width: 300px;
+  margin: auto;
+}
+
+#botonEditar {
+  margin: 10px;
+}
